@@ -9,7 +9,7 @@ Create an app to display a random cocktail
 
 - Use state and props to organise display
 
-[Link to Netlify URL](https://romantic-clarke-c5b835.netlify.com)
+[Link to Sandbox URL](https://romantic-clarke-c5b835.netlify.com)
 
 **Technologies**
 
